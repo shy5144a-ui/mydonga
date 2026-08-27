@@ -1,0 +1,39 @@
+# 가상환경 (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# 환경 변수 및 비밀 키 (API Keys & Secrets)
+.env
+.env.*
+!.env.example
+
+# 파이썬 캐시 파일 (Byte-compiled / optimized / DLL files)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 배포 / 빌드 파일
+build/
+dist/
+*.egg-info/
+
+# IDE / 에디터 설정
+.idea/
+.vscode/*
+!.vscode/settings.json
+*.swp
+*.swo
+
+# OS 생성 파일 및 임시 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.zip
+*.zmdownload
+*.tar.gz

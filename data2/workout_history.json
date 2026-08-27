@@ -1,0 +1,33 @@
+{
+  "completed_at": "2026-08-26 17:50:08",
+  "theme": "New Age",
+  "total_duration_sec": 180,
+  "estimated_calories": 23.4,
+  "stages": [
+    {
+      "name": "1. 웜업 & 심호흡 스트레칭",
+      "duration": 30,
+      "bgm": "🌿 달빛 하프 & 힐링 (Moonlight Harp)"
+    },
+    {
+      "name": "2. 스쿼트 & 하체 그라운딩",
+      "duration": 45,
+      "bgm": "🐱 냥이 고롱송 (Cat Purr & Chill)"
+    },
+    {
+      "name": "3. 푸시업 & 상체 코어 강화",
+      "duration": 40,
+      "bgm": "🌸 따스한 봄 햇살 (Warm Sunlight)"
+    },
+    {
+      "name": "4. 플랭크 & 중심 자각",
+      "duration": 35,
+      "bgm": "🌿 달빛 하프 & 힐링 (Moonlight Harp)"
+    },
+    {
+      "name": "5. 쿨다운 & 힐링 사운드배스",
+      "duration": 30,
+      "bgm": "🍃 치유의 크리스탈 볼 (Crystal Sound Bath)"
+    }
+  ]
+}
