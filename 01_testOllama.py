@@ -26,7 +26,7 @@ model = ChatOllama(model='gemma3:4b')
 
 #2 프롬프트 템플릿
 prompt = ChatPromptTemplate.from_messages([
-   ("system", "당신은 친절하고 전문적인 인공지능 AI선생님이야. 사용자의 질문에 한국어로 친절히 답해주세요."),
+   ("system", "길동님은 친절하고 전문적인 인공지능 AI선생님이야. 사용자의 질문에 한국어로 친절히 답해주세요."), ##내용 수정 2026-08-27 오후 12:37
    ("user", "{question}에 대해서 설명해줘")
 ])
 
